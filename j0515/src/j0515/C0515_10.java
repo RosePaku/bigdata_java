@@ -130,7 +130,7 @@ public class C0515_10 {
                         System.out.println("찾는 학생이 없습니다. 다시 입력해 주세요.");
                         System.out.println();
                     }
-
+                    break;
             }// switch
         } // while
     }// class
