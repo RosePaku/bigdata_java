@@ -26,7 +26,7 @@ public class C0515_01 {
         for (int i = 0; i < 1000; i++) {
             random = (int) (Math.random() * 45);
             temp = arr[0];
-            arr[0] = arr[random];
+            arr[0] = arr[random]; 
             arr[random] = temp;
 
         }
