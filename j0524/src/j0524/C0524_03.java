@@ -9,7 +9,7 @@ public class C0524_03 {
 		Ambulance a = new Ambulance();
 		Ambulance aa = null;
 		FireEngine f = new FireEngine();
-		FireEngin ff = null;
+		FireEngine ff = null;
 
 		// 다형성
 		Car c2 = new Ambulance();
